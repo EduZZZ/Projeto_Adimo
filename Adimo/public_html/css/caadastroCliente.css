@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 de jun de 2022, 14:24:02
+    Author     : OLIVEIRA
+*/
+.containerr{
+    padding: 0.3em 1em; 
+    padding-top: 100px
+}
+
+.containerr h1{
+    font-family: cursive
+}
+.containerr p{
+    font-style: oblique
+}
+body{   
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+div.jumbotron-fluid{
+    background-image: url(../img/planodeFundo.png)
+}
+
+.containerr{
+    margin: 0 auto;
+    width: 941px
+}
+#containerr-imagem {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+.social{
+    position: absolute;
+    top: 12px;
+    right: 0
+}
+
+.social li{
+    float: left;
+    margin-left: 25px
+}
+
+.social a{
+    height: 32px;
+    width: 32px;
+    display: block;
+    text-indent: -9999px
+}
+
+.social a[href*="facebook.com"]{
+    background-image: url(../img/facebook.png)
+}
+
+.social a[href*="twitter.com"]{
+    background-image: url(../img/twitter.png)
+}
+
+.social a[href*="plus.google.com"]{
+    background-image: url(../img/googleplus.png)
+}
+
+footer{
+    background-color: #5F9EA0;
+    clear: both;
+    padding: 20px 0;
+}
+
+footer .container{
+    position: relative;
+}
+.container li{
+    list-style-type: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
